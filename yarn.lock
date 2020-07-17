@@ -252,7 +252,7 @@ apollo-server-core@^2.14.2, apollo-server-core@^2.14.2:
     graphql-extensions "^0.0.x"
 
 apollo-server-express@^2.14.2:
-  version "1.4.0"
+  version "2.14.2"
   resolved "https://registry.yarnpkg.com/apollo-server-express/-/apollo-server-express-1.4.0.tgz#7d7c58d6d6f9892b83fe575669093bb66738b125"
   integrity sha512-zkH00nxhLnJfO0HgnNPBTfZw8qI5ILaPZ5TecMCI9+Y9Ssr2b0bFr9pBRsXy9eudPhI+/O4yqegSUsnLdF/CPw==
   dependencies:
